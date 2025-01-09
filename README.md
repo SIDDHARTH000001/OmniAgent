@@ -2,7 +2,7 @@
 LangGraph-powered Agentic Chatbot enabling real-time conversations with Gemini, alongside document analysis, web search, and database querying in a sleek, intuitive interface
 
 
-![AI Assistant Logo](path/to/logo.png)
+![AI Assistant Logo](chip.png)
 
 ## Features
 
