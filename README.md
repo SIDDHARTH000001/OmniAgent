@@ -4,8 +4,7 @@ LangGraph-powered Agentic Chatbot enabling real-time conversations with Gemini, 
 <img src="chip.png" alt="AI Assistant Logo" width="150" />
 
 ## Features
-
-### 1.WELCOME 
+ 
 <img src="OUTPUT/welcome.gif" alt="welcome" width="500" />
 
 
