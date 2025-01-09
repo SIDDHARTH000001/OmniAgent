@@ -63,7 +63,7 @@ LangGraph-powered Agentic Chatbot enabling real-time conversations with Gemini, 
 - Interactive database querying
 <img src="OUTPUT/DB.png" alt="OCR Models" width="200" />
 
-## Interaction with Gemini with screen share or video
+## 5. Interaction with Gemini with screen share or video
 <video src="OUTPUT/recording.mkv" width="400" controls>
 Your browser does not support the video tag.
 </video>
