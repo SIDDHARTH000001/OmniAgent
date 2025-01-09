@@ -9,7 +9,7 @@ LangGraph-powered Agentic Chatbot enabling real-time conversations with Gemini, 
 
 
 
-### 2. Document Analysis
+### 1. Document Analysis
 - Upload and analyze PDF/DOCX files
 - Supports file size up to 200MB
 - Real-time document parsing
@@ -19,7 +19,7 @@ LangGraph-powered Agentic Chatbot enabling real-time conversations with Gemini, 
 <img src="OUTPUT/SAP_OUTPUT.png" alt="Document" width="350" />
 
 
-### 3. Model Selection
+### 2. Model Selection
 #### LLM Options:
 - azureai
 - gemini-2.0-flash-thinking-exp-1219
@@ -41,7 +41,7 @@ LangGraph-powered Agentic Chatbot enabling real-time conversations with Gemini, 
 
 
 
-### 4. Web Search Integration
+### 3. Web Search Integration
 - Real-time web queries
 - Current events and news updates
 - Technical specifications lookup
@@ -49,7 +49,7 @@ LangGraph-powered Agentic Chatbot enabling real-time conversations with Gemini, 
 <img src="OUTPUT/WEB2_.png" alt="OCR Models" width="200" />
 
 
-### 5. Database Integration
+### 4. Database Integration
 
 ## Technical Configuration
 <img src="OUTPUT/DataBase_details.png" alt="OCR Models" width="200" />
