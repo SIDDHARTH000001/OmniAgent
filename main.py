@@ -109,7 +109,7 @@ def database_configuration_section():
     CONSTANT.webpages_to_include = int(st.text_input("Web search result", placeholder="No of web result to include",value=2))
 
     st.subheader("AMO Details")
-    CONSTANT.AMO_EMAIL = st.text_input("AMO EMAIL", placeholder="xxxxxxXXX@capgemini.com")
+    CONSTANT.AMO_EMAIL = st.text_input("AMO EMAIL", placeholder="xxxxxxXXX@domain.com")
     CONSTANT.AMO_PASS = st.text_input("AMO password", type="password",placeholder="xxxxXXXXX")
 
 
