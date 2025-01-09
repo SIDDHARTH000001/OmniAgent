@@ -17,7 +17,7 @@ LangGraph-powered Agentic Chatbot enabling real-time conversations with Gemini, 
 <img src="OUTPUT/SAP.png" alt="uploaded Document" width="250" />
 <img src="OUTPUT/SAP_OUTPUT.png" alt="Document" width="350" />
 
-## Supports different type of search
+## Supports Different Type of Search Method
 <img src="OUTPUT/Search_methods.png" alt="Document" width="350" />
 
 ### 2. Model Selection
