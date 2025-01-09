@@ -19,7 +19,7 @@ MODEL = "models/gemini-2.0-flash-exp"
 
 import os
 # Configure Gemini
-os.environ['GOOGLE_API_KEY'] = "AIzaSyAIWLIxKL1yCk5Skw1WzNZHvPRyK5jhd6g"
+os.environ['GOOGLE_API_KEY'] = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXXXXXXXXX"
 CONFIG = {"generation_config": {"response_modalities": ["AUDIO"]}}
 
 app = FastAPI()
