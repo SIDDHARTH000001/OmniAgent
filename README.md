@@ -10,11 +10,11 @@ LangGraph-powered Agentic Chatbot enabling real-time conversations with Gemini, 
 
 
 ### 1. Document Analysis
-- Upload and analyze PDF/DOCX files
+- Upload and analyze PDF/DOCX/IMAGES files
+ <img src="OUTPUT/SAP.png" alt="uploaded Document" width="250" />
 - Supports file size up to 200MB
 - Real-time document parsing
 
-<img src="OUTPUT/SAP.png" alt="uploaded Document" width="250" />
 <img src="OUTPUT/SAP_OUTPUT.png" alt="Document" width="350" />
 
 ## Supports Different Type of Search Method
