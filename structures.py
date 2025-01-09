@@ -30,11 +30,11 @@ llm = ""
 
 from langchain_openai import AzureChatOpenAI
 
-APIKey = "13ae1f9d088442df902ce322c499ae88"
-Endpoint = "https://na-ms-openai-toolsdev-4.openai.azure.com/"
-Deployment = "NA-MS-OpenAI-gpt-4o-min-Tools"
+APIKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+Endpoint = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+Deployment = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
 version = "2023-05-15"
-EmbeddingDeployment = "NA-MS-OpenAI-Text-Embedding-ada-Tools"
+EmbeddingDeployment = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 llm = AzureChatOpenAI(
