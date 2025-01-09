@@ -54,8 +54,8 @@ last_update_time: datetime = None
 credential_lock = threading.Lock()
 
 def Fill_AMO_webscrap(ListFileobject):
-    profile_path = r"C:\Users\siverma\AppData\Local\Google\Chrome\User Data"
-    url = "https://10.51.108.157/amoindustralization/Home.aspx"
+    profile_path = r"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    url = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXX"
     
     options = webdriver.ChromeOptions()
     options.add_argument(f"--user-data-dir={profile_path}")
@@ -102,7 +102,7 @@ def Fill_AMO_webscrap(ListFileobject):
         )
         sign_in_button.click()
         print("Clicked on 'Sign In' button.")
-        driver.get("https://10.51.108.157/amoindustralization/TimeCardHomenew.aspx")
+        driver.get("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXX")
         
         
         rows = driver.find_elements(By.XPATH, '//table[@id="GridView1"]/tbody/tr[not(contains(@class, "grid_head"))]')
@@ -234,8 +234,8 @@ def fetch_AMO_screenshot(user_input:str):
     print("going to fetch AMO updates....")
     # return "ss/screenshot_2fd04c73-2cde-49ab-8155-4b62e1b71d2c.png"
     # print(user_input)
-    profile_path = r"C:\Users\siverma\AppData\Local\Google\Chrome\User Data"
-    url = "https://10.51.108.157/amoindustralization/Home.aspx"
+    profile_path = r"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXX"
+    url = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXX"
     
     options = webdriver.ChromeOptions()
     options.add_argument(f"--user-data-dir={profile_path}")
@@ -280,7 +280,7 @@ def fetch_AMO_screenshot(user_input:str):
     )
     sign_in_button.click()
     print("Clicked on 'Sign In' button.")
-    driver.get("https://10.51.108.157/amoindustralization/TimeCardHomenew.aspx")
+    driver.get("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXXXXXXXXX")
     
     
     rows = driver.find_elements(By.XPATH, '//table[@id="GridView1"]/tbody/tr[not(contains(@class, "grid_head"))]')
